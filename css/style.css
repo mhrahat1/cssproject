@@ -1,0 +1,49 @@
+body{
+	background-color:black;
+}
+button{
+	color:#dddd;
+	background-color: red;
+}
+.buttonn{
+	text-align: center;
+}
+div{
+    text-align: center;
+}
+h2{
+	color: red;
+	background-color:rgba(11,22,33,.4);
+	border:solid 5px yellow;
+	text-align: center;
+}
+li{
+	color: blue;
+	font:unset;
+}
+
+figcaption{
+	font: 15px;
+	color: teal;
+}
+.text{
+	text-align:center;
+}
+.tlink{
+	text-align: center;
+}
+.otext{
+	text-align: center;
+}
+.olink{
+	text-align: center;
+}
+.totext{
+	text-align: center;
+}
+.lolink{
+	text-align: center;
+}
+p{
+	color: white;
+}
